@@ -82,29 +82,44 @@ class App {
   items = [
     {
       id: '0',
-      isChecked: false,
       label: 'Item 1'
     },
     {
       id: '1',
-      isChecked: false,
       label: 'Item 2'
     },
     {
       id: '2',
-      isChecked: false,
       label: 'Item 3'
     },
     {
       id: '3',
-      isChecked: false,
       label: 'Item 4'
     },
     {
       id: '4',
-      isChecked: false,
       label: 'Item 5'
     },
+    {
+      id: '5',
+      label: 'Item 6'
+    },
+    {
+      id: '6',
+      label: 'Item 7'
+    },
+    {
+      id: '7',
+      label: 'Item 8'
+    },
+    {
+      id: '8',
+      label: 'Item 9'
+    },
+    {
+      id: '9',
+      label: 'Item 10'
+    }
   ]
   constructor() {
     this.addedItemsList = new List('added', []);
