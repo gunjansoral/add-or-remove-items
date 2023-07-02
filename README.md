@@ -19,7 +19,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/list-management-app.git
+git clone https://github.com/gunjansoral/add-or-remove-items
 Open the index.html file in a web browser.
 
 Interact with the application by checking/unchecking items and clicking the "Add" or "Remove" buttons.
